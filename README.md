@@ -69,3 +69,38 @@ Siamese-Network-using-EfficientNet/
 └── README.md               # This README file
 ```
 
+## What I Learned
+
+### Fundamentals of Metric Learning and Siamese Networks
+- **Understanding Siamese Networks:**  
+  I learned how Siamese Networks operate by comparing pairs of inputs to determine their similarity, using contrastive loss functions to effectively learn discriminative features.
+
+- **EfficientNet for Feature Extraction:**  
+  I gained hands-on experience in integrating EfficientNet as a feature extractor, leveraging its state-of-the-art architecture for robust and efficient representation learning.
+
+### Practical Implementation Skills
+- **Python and Deep Learning Frameworks:**  
+  I improved my proficiency in Python and worked extensively with frameworks like TensorFlow/Keras or PyTorch to build, train, and evaluate the network.
+
+- **Custom Loss Functions and Model Training:**  
+  I implemented and fine-tuned custom loss functions tailored for Siamese Networks, which was critical for learning effective similarity metrics.
+
+- **Data Preparation and Augmentation:**  
+  I developed strategies for preparing paired datasets, including data augmentation techniques to ensure robust training and to enhance the model's generalization capabilities.
+
+### Experimentation and Optimization
+- **Hyperparameter Tuning:**  
+  I experimented with various hyperparameters—such as learning rates, batch sizes, and epochs—to optimize model performance and achieve better convergence.
+
+- **Model Evaluation:**  
+  I learned to evaluate the network using appropriate metrics and visualizations, ensuring that it accurately distinguishes between similar and dissimilar pairs.
+
+### Advanced Topics and Best Practices
+- **Transfer Learning:**  
+  I leveraged pre-trained EfficientNet models and fine-tuned them for my specific task, gaining insights into the benefits of transfer learning for specialized applications.
+
+- **Performance Optimization:**  
+  I explored methods to optimize both training and inference, ensuring that the model remains efficient while delivering high accuracy.
+
+- **Real-World Applications:**  
+  This project provided a solid foundation for applying Siamese Networks to various domains, such as face recognition, image retrieval, and anomaly detection.
